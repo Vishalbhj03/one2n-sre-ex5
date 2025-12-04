@@ -1,4 +1,4 @@
-# one2n-sre-ex5 – Bare Metal Deployment using Vagrant & Docker
+# Bare Metal Deployment using Vagrant & Docker
 
 This project deploys the Student REST API on a Vagrant VM using Docker and Nginx.
 
